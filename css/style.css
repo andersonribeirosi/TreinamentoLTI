@@ -1,0 +1,45 @@
+.logo {
+    width: 160px;
+}
+
+.navbar-inverse .navbar-right > li > a {
+    color: green;
+}
+
+.sub-header {
+    height: auto;
+    overflow: hidden;
+    margin-top: -2%;
+}
+
+.image-header {
+    width: 100%;
+}
+
+.left-menu {
+    height: -webkit-fill-available;
+}
+
+.top-menu {
+    background-color: #2F4F4F;
+    color: white;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: bold;
+}
+
+.container {
+    margin-left: -14px;
+    margin-top: 0px;
+}
+
+
+/*
+.navbar-right {
+    position: absolute;
+    right: 10px;
+}
+
+.navbar-form {
+    right: 380px;
+} */
