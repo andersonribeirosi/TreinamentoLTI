@@ -20,6 +20,10 @@
     height: -webkit-fill-available;
 }
 
+.navbar{
+    margin-bottom: 0px;
+}
+
 .top-menu {
     background-color: #2F4F4F;
     color: white;
